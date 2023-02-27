@@ -12,7 +12,7 @@ import NavButton from './ui/navButton.vue'
 </template>
   
   
-<style scoped>
+<style>
 .navbar {
     height: 50px;
     background-color: lightgray;

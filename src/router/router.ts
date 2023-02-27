@@ -1,4 +1,4 @@
-import Main from "../pages/Main.vue";
+import Main from "../pages/Home.vue";
 import { createRouter, createWebHistory } from "vue-router";
 
 const routes = [
